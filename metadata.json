@@ -1,0 +1,6 @@
+{
+  "name": "SyncFlow",
+  "description": "Automated real-time workflow manager and team project synchronization for Slack, GitHub, and Jira with high-thinking AI orchestration and dark mode interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

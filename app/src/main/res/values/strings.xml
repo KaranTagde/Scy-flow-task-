@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SyncFlow</string>
+    <string name="default_web_client_id">1234567890-syncflow.apps.googleusercontent.com</string>
+</resources>
